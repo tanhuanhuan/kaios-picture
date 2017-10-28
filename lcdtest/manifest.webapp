@@ -1,0 +1,19 @@
+{
+  "name": "lcdtest",
+  "description": "use for lcd test",
+  "type": "certified",
+  "launch_path": "/index.html",
+  "fullscreen": true,
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "softkey": {},
+    "settings":{ "access": "readwrite" }
+  },
+  "icons": {
+      "56": "/style/icons/icon.png",
+      "84": "/style/icons/icon.png"
+    }
+}

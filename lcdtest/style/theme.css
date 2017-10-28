@@ -1,0 +1,11 @@
+:root {
+  /** Background */
+  --background: #0b0b0b;
+  /** Highlight */
+  --highlight-color: #ea6d19;
+  /** Font Color */
+  --color-gs00: white;
+  /** Font Size */
+  --font-p-pri: 1.7rem;
+  --font-p-large: 2.2rem;
+}

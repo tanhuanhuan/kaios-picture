@@ -1,0 +1,15 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    overflow: hidden;
+}
+
+#color_test_img,#crosstalk_test_img,#flicker_test_img,#gamma_test_img{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
